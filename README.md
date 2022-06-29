@@ -18,9 +18,9 @@ Our first try to work with the HTTP Interaction from Discord!
 
 
 ## Support Server
-[Click ME](https://www.betty.cx/support) | [or me](https://cloe.famebit.ch/support)
+[Click ME](https://www.betty.cx/support) | [or me](https://getbetty.bot/support)
 
 
 ## Other Projekts
-- Cloe - [Website](https://cloe.famebit.ch) | [Invite](https://bit.ly/cloeinv)
-- Betty - [Website](http://www.betty.cx) | [Invite](https://betty.cx/add)
+- Cloe - [Invite](https://bit.ly/cloeinv)
+- Betty - [Website](http://getbetty.bot) | [Invite](https://getbetty.bot/add)
