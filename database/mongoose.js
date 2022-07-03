@@ -1,5 +1,6 @@
-    
 const mongoose = require('mongoose');
+
+require("dotenv").config();
 
 module.exports = async () => {
     const dbOptions = {
@@ -9,7 +10,7 @@ module.exports = async () => {
         useCreateIndex: true,      
       };
 
-    mongoose.connect("mongodb://USER:PASSWORD@localhost:27017/HttpBot", dbOptions)
+    mongoose.connect(process.env.MONGO_URL, dbOptions)
     .catch(e => {
       console.log(e.message)
     })
